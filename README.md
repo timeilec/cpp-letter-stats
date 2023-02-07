@@ -8,3 +8,8 @@ This tool will tell you the most frequent vowel, consonant, and letter in a stri
 1. Compile the C++ file
 2. Run the executable
 3. Enter the string of text that you wish to get stats for when prompted
+
+Example compilation command on Mac/Linux:
+```
+g++ -std=c++17 letter-stats.cpp -o letter-stats
+```
